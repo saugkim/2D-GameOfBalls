@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Base
+  - Bar
+  - Obstacle
+  - Target
+  - Enemy
+  - Key
+  - Coin
+  - Lock
+  - Wall
+  - Door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Inactive
+  - Active
+  - Background
+  - Bar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 15721829
+    locked: 0
+  - name: Bar
+    uniqueID: 3261710717
+    locked: 0
+  - name: Player
+    uniqueID: 2920989351
+    locked: 0

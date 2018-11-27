@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D_GameOfBalls_kim_15032018_CleanUpCode", "Assembly-CSharp.csproj", "{770A32BD-9F47-46AD-F31E-EA0ED56766EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{770A32BD-9F47-46AD-F31E-EA0ED56766EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770A32BD-9F47-46AD-F31E-EA0ED56766EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770A32BD-9F47-46AD-F31E-EA0ED56766EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770A32BD-9F47-46AD-F31E-EA0ED56766EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
